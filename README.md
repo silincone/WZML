@@ -1,3 +1,6 @@
+<b>NOTE:<b> This is just a copy of the repository from WEEBZONE
+
+
 <p align="center">
     <a href="https://github.com/weebzone/WZML">
         <kbd>
